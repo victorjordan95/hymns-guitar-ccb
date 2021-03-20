@@ -1,5 +1,5 @@
-import Navbar from './components/Navbar.jsx'
-import PhotoGallery from './components/PhotoGallery.jsx'
+import Navbar from './components/Navbar.jsx';
+import PhotoGallery from './components/PhotoGallery.jsx';
 import './styles.css';
 
 function App() {

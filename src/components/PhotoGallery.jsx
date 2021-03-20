@@ -1,8 +1,8 @@
-import React, { useState } from 'react'
-import Select from 'react-select'
-
-import hymnsList from '../utils/hymnsList'
+import React, { useState } from 'react';
+import Select from 'react-select';
 import styled from 'styled-components';
+import hymnsList from '../utils/hymnsList';
+
 
 const HymnContainer = styled.section`
   .hymn-select {

@@ -1,4 +1,4 @@
-export default [
+const hymnsList = [
   {
       "value": 1,
       "label": 1
@@ -1932,3 +1932,5 @@ export default [
     "label": 'Corinho - 5, 6'
 }
 ]
+
+export default hymnsList;
